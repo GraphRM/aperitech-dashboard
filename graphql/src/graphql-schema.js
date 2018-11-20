@@ -32,6 +32,5 @@ export const resolvers = {
   Query: {
     allMeetups: neo4jgraphql,
     allTags: neo4jgraphql,
-    eventsByMeetup: neo4jgraphql
   }
 };
